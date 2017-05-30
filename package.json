@@ -1,12 +1,12 @@
 {
-  "name": "",
+  "author": "Milos Nikolic",
+  "name": "api for gfeture prodyna fron-end developers",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Milos Nikolic",
   "license": "ISC",
   "dependencies": {
     "faker": "^3.1.0",
