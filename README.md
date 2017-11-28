@@ -10,6 +10,6 @@ If there are open questions, choose the most reasonable answers for yourself. Sh
 with the API endpoint, contact us with a detailed bug description.
 
 Whole description os in pdf file.
-You can check the api here: http://api.esc.rs/
+You can check the api here: https://prodynafakeapi.herokuapp.com/
 
 HAPPY CODING !!! :)
